@@ -7,4 +7,4 @@ Part 2 is all about creating and testing a logistic regression model.
 
 Part 3 goes into where we can apply xG to gain insights
 
-note: part 2 and 3 will be avaliable in the not so distant future
+note:  3 will be avaliable in the not so distant future
